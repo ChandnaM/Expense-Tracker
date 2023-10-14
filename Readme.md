@@ -1,5 +1,5 @@
 
-# Expense Management System
+# Expense Tracker
 
 <p>Complete MERN STACK PROJECT | Mongodb ExpressJS ReactJS NodeJS </p>
 <p>Used to keep track of expenses in a user-friendly interface. </p>
